@@ -14,4 +14,5 @@ test-branch-4の変更です。
 test-branch-5ではなく、masterの変更です。
 test-branch-5の変更です。
 
+test-branch-6-1の変更です。
 test-branch-6-2の変更です。
