@@ -8,3 +8,5 @@
 test-branch-2の変更です。
 
 test-branch-3の変更です。
+
+test-branch-4の変更です。
